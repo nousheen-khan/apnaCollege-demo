@@ -1,4 +1,4 @@
 # apnaCollege-demo
-This my first Git Repository.
+This is a new  Git Repository.
 <br>
-Author-Shruty (shhh)
+Author-Nousheen Khan
